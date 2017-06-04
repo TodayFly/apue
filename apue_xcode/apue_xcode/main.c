@@ -6,7 +6,10 @@
 //  Copyright © 2017年 Yin. All rights reserved.
 //
 
-#include <stdio.h>
+
+
+#include "../src_apue3e/include/apue.h"
+#include "t.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
