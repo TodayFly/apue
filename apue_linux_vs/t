@@ -1,0 +1,7 @@
+a write to stdout 
+before fork
+pid = 1832, glob = -6, var = -88
+Program exit! 
+before fork
+pid = 1831, glob = 6, var = 88
+Program exit! 
