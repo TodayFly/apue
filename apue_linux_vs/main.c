@@ -1,6 +1,9 @@
 #include "apue.h"
-int main()
+int chapter4(int argc, char * argv[]);
+void SysInfoFun();
+int main(int argc, char * argv[])
 {
-    printf("hello from apue_linux_vs!\n");
-    return 0;
+	//chapter4(argc,argv);
+	SysInfoFun();
+	return 0;
 }
